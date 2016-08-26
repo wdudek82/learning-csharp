@@ -1,0 +1,5 @@
+/home/neevor/code/exercices/C_Sharp/Project_1/Project_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/neevor/code/exercices/C_Sharp/Project_1/Project_1/bin/Debug/Project_1.exe.mdb
+/home/neevor/code/exercices/C_Sharp/Project_1/Project_1/bin/Debug/Project_1.exe
+/home/neevor/code/exercices/C_Sharp/Project_1/Project_1/obj/x86/Debug/Project_1.exe
+/home/neevor/code/exercices/C_Sharp/Project_1/Project_1/obj/x86/Debug/Project_1.exe.mdb
